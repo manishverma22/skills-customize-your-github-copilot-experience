@@ -3,19 +3,19 @@
 
 ## 🎯 Objective
 
-Practice fundamental Python programming skills including user input, string formatting, arithmetic operations, and conditional statements by implementing simple functions.
+Learn and practice fundamental Python programming skills: user input, string formatting, arithmetic operations, and conditional statements.
 
 ## 📝 Tasks
 
 ### 🛠️ User Input and String Formatting
 
 #### Description
-Write a function called `welcome_message()` that interacts with the user and returns a formatted welcome message.
+Implement a function `welcome_message()` that interacts with the user and returns a formatted welcome message.
 
 #### Requirements
 Completed program should:
 
-- Ask the user for their name, age, and favorite color using `input()`.
+- Prompt the user for their name, age, and favorite color using `input()`.
 - Return a welcome message formatted as:
   `Hello, [name]! You are [age] years old and your favorite color is [color].`
 - Example output:
@@ -24,22 +24,24 @@ Completed program should:
 ### 🛠️ Basic Arithmetic
 
 #### Description
-Write a function called `add_two_numbers()` that prompts the user for two numbers and prints their sum.
+Create a function `add_two_numbers()` that asks the user for two numbers and prints their sum.
 
 #### Requirements
 Completed program should:
 
-- Ask the user to enter two numbers.
+- Prompt the user to enter two numbers.
 - Add the numbers together.
 - Print the result. Example:
+  ```
   Enter the first number: 3
   Enter the second number: 7
   10
+  ```
 
 ### 🛠️ Conditional Statements
 
 #### Description
-Write a function called `is_even()` that checks if a number is even.
+Write a function `is_even()` that checks if a number is even.
 
 #### Requirements
 Completed program should:
